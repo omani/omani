@@ -8,7 +8,30 @@ Developer, Freelancer & Entrepreneur
 * 🌍  I'm based in Frankfurt, Germany
 * 🧠  I'm a freelancer, code contributor and run my own company.
 * 🚀  I'm currently working on open source projects and my own private projects.
-* 🤝  You can hire me as a Backend Developer or DevOps Engineer.
+* 🤝  You can hire me as a Software Developer or DevOps Engineer.
+
+## Profile
+I worked for multinational companies (finance, hosting, data centers), including the world's volume-wise largest IXP (Internet Exchange Point) in Frankfurt, Germany. I am fast and efficient.
+
+### Experience
+* Software Development: 10+ years
+* DevOps Engineering: 20+ years
+
+### Specialized Profile
+- DevOps Engineering
+- Software Development
+
+### Expertise
+- API Development
+- Datacenter Engineer
+- Scripting/Automation
+- Backend Development
+- Web Application Development
+- Database Administrator (DBA)
+- Virtualization and Containerization
+- Configuration Management and Deployments
+
+---
 
 <a href="https://www.github.com/omani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/omani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
