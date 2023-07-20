@@ -14,8 +14,8 @@ Developer, Freelancer & Entrepreneur
 I worked for multinational companies (finance, hosting, data centers), including the world's volume-wise largest IXP (Internet Exchange Point) in Frankfurt, Germany. I am fast and efficient.
 
 ### Experience
-* Software Development: 10+ years
 * DevOps Engineering: 20+ years
+* Software Development: 10+ years
 
 ### Specialized Profile
 - DevOps Engineering
