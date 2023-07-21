@@ -17,10 +17,6 @@ I worked for multinational companies (finance, hosting, data centers), including
 * DevOps Engineering: 20+ years
 * Software Development: 10+ years
 
-### Specialized Profile
-- DevOps Engineering
-- Software Development
-
 ### Expertise
 - API Development
 - Datacenter Engineer
