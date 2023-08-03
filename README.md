@@ -8,7 +8,7 @@ Developer, Freelancer & Entrepreneur
 * 🌍  I'm based in Frankfurt, Germany
 * 🧠  I'm a code contributor to various open-source projects.
 * 🚀  In my spare time I work on open-source and my own private projects.
-* 🤝  I work for compaanies as a registered freelancer. Hire me as a Software Developer or DevOps Engineer.
+* 🤝  I work for companies as a registered freelancer. Hire me as a Software Developer or DevOps Engineer.
 
 ## Profile
 I worked for multinational companies (finance, hosting, data centers), including the world's volume-wise largest IXP (Internet Exchange Point) in Frankfurt, Germany. I am fast and efficient.
