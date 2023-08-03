@@ -6,8 +6,8 @@ Developer, Freelancer & Entrepreneur
 
 <!-- * 🖥️  See my portfolio at [danielcranney.com](http://danielcranney.com) -->
 * 🌍  I'm based in Frankfurt, Germany
-* 🧠  I'm a freelancer, code contributor and run my own company.
-* 🚀  I'm currently working on open source projects and my own private projects.
+* 🧠  I'm a registered freelancer and code contributor to various open-source projects.
+* 🚀  In my spare time I work on open-source and my own private projects.
 * 🤝  You can hire me as a Software Developer or DevOps Engineer.
 
 ## Profile
