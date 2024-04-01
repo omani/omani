@@ -1,8 +1,8 @@
 Hi 👋 My name is Sun
 ====================
 
-Developer, Freelancer & Entrepreneur
-------------------------------------
+Developer, Freelancer & Solopreneur
+-----------------------------------
 
 <!-- * 🖥️  See my portfolio at [danielcranney.com](http://danielcranney.com) -->
 * 🌍  I'm based in Frankfurt, Germany
